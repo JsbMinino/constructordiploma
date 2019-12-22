@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 22 Dec 2019 12:00:00 +0000
+Source: constructordiploma-qt4
+Binary: constructordiploma-qt4
+Architecture: source all
+Version: 0.0.87-1
+Distribution: unstable
+Urgency: low
+Maintainer: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Changed-By: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Description:
+ constructordiploma-qt4 - qt4 package for ConstructorDiplomas
+Changes:
+ constructordiploma-qt4 (0.0.87-1) unstable; urgency=low
+ .
+   * actualizacion desktop.open a exec
+Checksums-Sha1:
+ ecbd85ba2caf9d909c5606cad0379608c4359fa3 616 constructordiploma-qt4_0.0.87-1.dsc
+ 185b48de04bf701f3383aadfeb4a828d65edc898 2571 constructordiploma-qt4_0.0.87-1.tar.gz
+ 49156ba92d085f8a67d1b355364bdbab29fa8847 3116 constructordiploma-qt4_0.0.87-1_all.deb
+ d00bd7408586190fbe871d02b8dfa4b1b0107d76 4602 constructordiploma-qt4_0.0.87-1_amd64.buildinfo
+Checksums-Sha256:
+ 7a4a6bd4b5965ab4eb0a56c2c0cb880eb1072b300c18c8261e39b69f1792e821 616 constructordiploma-qt4_0.0.87-1.dsc
+ 32da866937eeb5fbdfd2d99e4972f1667caa564344265361e7e7905211f0e913 2571 constructordiploma-qt4_0.0.87-1.tar.gz
+ ef433043b293514eea78c0e90f9d79bec4c1a50de8098bf467e6a3c750e4ce74 3116 constructordiploma-qt4_0.0.87-1_all.deb
+ f684bc14a9a53b168732ac850de3218823ae54e5ad231352010e855a4f0cee94 4602 constructordiploma-qt4_0.0.87-1_amd64.buildinfo
+Files:
+ 0b56b5a2d2b2a2775a1607c725eae11c 616 contrib/graphics optional constructordiploma-qt4_0.0.87-1.dsc
+ 784440c3becfbca40006014f98e165c4 2571 contrib/graphics optional constructordiploma-qt4_0.0.87-1.tar.gz
+ b0c7f5e6435ee0b8c8d70081be98c16f 3116 contrib/graphics optional constructordiploma-qt4_0.0.87-1_all.deb
+ ffd79342ce07805ea5dd3b38d3277ecc 4602 contrib/graphics optional constructordiploma-qt4_0.0.87-1_amd64.buildinfo

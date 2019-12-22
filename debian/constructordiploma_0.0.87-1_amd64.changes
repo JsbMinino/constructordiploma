@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 22 Dec 2019 12:00:00 +0000
+Source: constructordiploma
+Binary: constructordiploma
+Architecture: source all
+Version: 0.0.87-1
+Distribution: unstable
+Urgency: low
+Maintainer: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Changed-By: Julio Sanchez Berro <jusabejusabe@gmail.com>
+Description:
+ constructordiploma - Crea diplomas personalizados fácilmente
+Changes:
+ constructordiploma (0.0.87-1) unstable; urgency=low
+ .
+   * actualizacion desktop.open a exec
+Checksums-Sha1:
+ ab4c9de111406482730a984413779a2237acfbf5 1344 constructordiploma_0.0.87-1.dsc
+ 844e17783a625746f87f2f16af853de0ad93e848 3150 constructordiploma_0.0.87-1.diff.gz
+ 89b7cb2d8dea5dcf1fd69ffdfa1587cc0eb7035a 24342872 constructordiploma_0.0.87-1_all.deb
+ 3e67f9aeade18e5c0b36e76eb5f612bbf83598b5 10257 constructordiploma_0.0.87-1_amd64.buildinfo
+Checksums-Sha256:
+ 31e9ca381a7bb1a06f155d25b31a958bdc00a11b91b41a3fe87843a708bd96c8 1344 constructordiploma_0.0.87-1.dsc
+ a384fbaf030ef3d1363f51dc11fab31bdbbd2d0b7877548d6ca8ba7f26ee9aaf 3150 constructordiploma_0.0.87-1.diff.gz
+ 9c9ade92edbadd632abab13cdb7cb1ef1bc4f9feb70714d41863d52bc15adb39 24342872 constructordiploma_0.0.87-1_all.deb
+ d17f6c72527e0f757850c70906ad8f89318ebfc34ab6607e97da58e9085d9060 10257 constructordiploma_0.0.87-1_amd64.buildinfo
+Files:
+ 63f305692dbb3ab0024991bffaeb6a29 1344 contrib/graphics optional constructordiploma_0.0.87-1.dsc
+ d4e541eff1d4b0ce0b7e3e27929ecfac 3150 contrib/graphics optional constructordiploma_0.0.87-1.diff.gz
+ 4940ace150da17de391a7d09a221f3a7 24342872 contrib/graphics optional constructordiploma_0.0.87-1_all.deb
+ 0f52ee482a98a516ebe4a93abf37a195 10257 contrib/graphics optional constructordiploma_0.0.87-1_amd64.buildinfo

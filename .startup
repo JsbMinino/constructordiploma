@@ -1,0 +1,14 @@
+FMain
+ConstructorDiplomas
+0
+0
+0.0.87
+
+gb.image
+gb.gui.qt
+gb.form
+gb.desktop
+gb.form.dialog
+gb.net
+gb.net.curl
+
